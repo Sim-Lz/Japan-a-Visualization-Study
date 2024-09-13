@@ -3,4 +3,4 @@ In this repository, you will find the sources, methods, and charts related to a 
 
 - Data Folder: the folder where you can find the data used for the study. Please note that Biodiversity data are available not in the folder, but by downloading needed files by the links in the notebook
 - main.ipynb: the notebook where al the project has been developed and the graphs created
-
+- [Presentation Website](https://simoneluzi.altervista.org/japan-a-visualization-study/): a dedicated website showcasing all the extracted data and insights from the study
